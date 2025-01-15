@@ -4,6 +4,7 @@ Netflix is known for its work in data science, AI, and ML, particularly for buil
 
 Q.) What is the most frequent genre of movies released on Netflix?
 ![Preview Image](ans1.png)
+
 we can notice from the above visual that Drama genre is the most frequent genre
 in our dataset and has appeared more than 14% of the times among 19 other
 genres.
